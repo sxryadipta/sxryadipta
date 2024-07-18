@@ -13,10 +13,10 @@
 
 - ⚡ Fun fact- the best code is no code at all.
 
+<br />
 
 
-
-<h3 align="left">🔗 &nbsp;Connect with me:</h3>
+## 🔗 Connect with me
 <p align="left">
 <a href="https://dev.to/sxryadipta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sxryadipta" height="30" width="40" /></a>
 <a href="https://twitter.com/sxryadiptaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sxryadiptaa" height="30" width="40" /></a>
@@ -26,7 +26,7 @@
 <a href="https://www.leetcode.com/sxryadipta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sxryadipta" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🛠️ &nbsp;Languages and Tools:</h3>
+## 🛠️ &nbsp;Languages and Tools
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 

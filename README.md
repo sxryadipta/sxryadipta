@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **gsuryadipta@gmail.com**
 
-- ⚡ Fun fact **the best code is no code at all.**
+- ⚡ Fun fact- the best code is no code at all.
+
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->

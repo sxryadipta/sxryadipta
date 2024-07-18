@@ -26,6 +26,8 @@
 <a href="https://www.leetcode.com/sxryadipta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sxryadipta" height="30" width="40" /></a>
 </p>
 
+<br />
+
 ## 🛠️ &nbsp;Languages and Tools
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -40,7 +42,9 @@
 <a href="https://reactjs.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-📕 &nbsp;**Latest Blog Posts**
+<br />
+
+## 📕 &nbsp;Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The 21 Days Challenge: Pt. 2](https://dev.to/sxryadipta/the-21-days-challenge-pt-2-5f50)
 - [The 21 Days Challenge: Pt. 1](https://dev.to/sxryadipta/the-21-days-challenge-pt-1-3cnk)

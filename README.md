@@ -15,6 +15,10 @@
 
 <h3 align="left">📕 &nbsp;Latest Blog Posts:</h3>
 <!-- BLOG-POST-LIST:START -->
+- [The 21 Days Challenge: Pt. 2](https://dev.to/sxryadipta/the-21-days-challenge-pt-2-5f50)
+- [The 21 Days Challenge: Pt. 1](https://dev.to/sxryadipta/the-21-days-challenge-pt-1-3cnk)
+- [Basic Git and GitHub commands](https://dev.to/sxryadipta/basic-git-and-github-commands-9jk)
+- [My first article!](https://dev.to/sxryadipta/my-first-article-401j)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🔗 &nbsp;Connect with me:</h3>

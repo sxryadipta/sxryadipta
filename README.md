@@ -7,7 +7,7 @@
 
 - 📝 I write blogs on [https://dev.to/sxryadipta](https://dev.to/sxryadipta)
 
-- 💬 Ask me about **my secret ingredient for Cleaner Code and Chicken Curry!**
+- 💬 Ask me about **my secret ingredient for  Butter Chicken!**
 
 - 📫 How to reach me **gsuryadipta@gmail.com**
 

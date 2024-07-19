@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **any open-source project related to my Tech Stack!**
 
-- 📝 I write articles on [https://dev.to/sxryadipta](https://dev.to/sxryadipta)
+- 📝 I write blogs on [https://dev.to/sxryadipta](https://dev.to/sxryadipta)
 
 - 💬 Ask me about **my secret ingredient for Cleaner Code and Chicken Curry!**
 

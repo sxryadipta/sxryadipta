@@ -58,9 +58,8 @@
 
 ![sxryadipta's Stats](https://github-readme-stats.vercel.app/api?username=sxryadipta&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sxryadipta%20&theme=dark)](https://git.io/streak-stats)
 
-
+![sxryadipta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sxryadipta&theme=highcontrast&hide_border=false)
  
 </div>
 

@@ -44,6 +44,11 @@
 
 <br />
 
+## Activity 
+<!--START_SECTION:activity-->
+
+<br/ >
+
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The 21 Days Challenge: Pt. 2](https://dev.to/sxryadipta/the-21-days-challenge-pt-2-5f50)

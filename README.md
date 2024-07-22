@@ -47,7 +47,6 @@
 ## ⚡ Recent Activity 
 <!--START_SECTION:activity-->
 
-<br/ >
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->

@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **my secret ingredient for  Butter Chicken!**
 
-- 📫 How to reach me **gsuryadipta@gmail.com**
+- 📫 How to reach me- **gsuryadipta@gmail.com**
 
 - ⚡ Fun fact- the best code is no code at all.
 
@@ -44,7 +44,7 @@
 
 <br />
 
-## Activity 
+## ⚡ Recent Activity 
 <!--START_SECTION:activity-->
 
 <br/ >

@@ -1,3 +1,5 @@
+![sxryadipta-github-header](./sxryadipta-github-header.png)
+
 <h1 align="center"> Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Suryadipta Ghosh</h1>
 <h3 align="center">From India, coding like there's no tomorrow</h3>
 

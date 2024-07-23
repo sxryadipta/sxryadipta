@@ -46,9 +46,13 @@
 
 <br />
 
+##  Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+
+<br />
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->

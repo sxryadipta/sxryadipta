@@ -66,7 +66,7 @@
 
 ## 📊 GitHub Stats
 
-![sxryadipta's Stats](https://github-readme-stats.vercel.app/api?username=sxryadipta&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
+![sxryadipta's Stats](https://github-readme-stats.vercel.app/api?username=sxryadipta&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
 
 ![sxryadipta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sxryadipta&theme=highcontrast&hide_border=false)
  

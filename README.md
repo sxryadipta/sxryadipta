@@ -48,7 +48,7 @@
 <br />
 
 ##  Activity
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
 
 

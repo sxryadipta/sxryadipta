@@ -52,6 +52,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The 100-Day Self-Improvement Challenge](https://dev.to/sxryadipta/the-100-day-self-improvement-challenge-5d24)
 - [The 21 Days Challenge: Pt. 2](https://dev.to/sxryadipta/the-21-days-challenge-pt-2-5f50)
 - [The 21 Days Challenge: Pt. 1](https://dev.to/sxryadipta/the-21-days-challenge-pt-1-3cnk)
 - [Basic Git and GitHub commands](https://dev.to/sxryadipta/basic-git-and-github-commands-9jk)

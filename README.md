@@ -46,7 +46,7 @@
 
 </p>
 
-<br />
+<br /> &nbsp;
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->

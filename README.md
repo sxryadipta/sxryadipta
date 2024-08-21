@@ -1,9 +1,8 @@
 ![sxryadipta-github-header](./Yellow%20&%20Black%20Simple%20Profile%20LinkedIn%20Banner.png)
 
-Hi 👋, I'm Suryadipta Ghosh
-===========================================================================================================================
+# <p align= "center">Hi 👋, I'm Suryadipta Ghosh</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Grinding+to+be+a+Flashy+Programmer!)](https://git.io/typing-svg)
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7¢er=true&width=435&lines=Grinding+to+be+a+Flashy+Programmer!" alt="Typing SVG" /></a></p>
 
 
 - 🌱 I’m currently learning **JavaScript, React and Node.js**

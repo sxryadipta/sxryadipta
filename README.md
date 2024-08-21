@@ -1,7 +1,9 @@
 ![sxryadipta-github-header](./Yellow%20&%20Black%20Simple%20Profile%20LinkedIn%20Banner.png)
 
-<h1 align="center"> Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Suryadipta Ghosh</h1>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Grinding+to+be+a+Flashy+Programmer!" alt="Typing SVG" /> </a></div>
+Hi [![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)](https://www.gautamkrishnar.com/), I'm Suryadipta Ghosh
+===========================================================================================================================
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Grinding+to+be+a+Flashy+Programmer!)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning **JavaScript, React and Node.js**

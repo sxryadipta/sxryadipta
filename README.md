@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, JavaScript and Backend Development.**
 
 - 👯 I’m looking to collaborate on **any open-source project related to my Tech Stack!**
 

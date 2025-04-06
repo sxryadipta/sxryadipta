@@ -17,22 +17,8 @@
 
 - ⚡ Fun fact- the best code is no code at all.
 
-<br />
-
-
-## 🔗 Connect with me
-<p align="left">
-<a href="https://twitter.com/sxryadipta0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sxryadiptaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sxryadipta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sxryadipta" height="30" width="40" /></a>
-<a href="https://medium.com/@sxryadipta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sxryadipta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sxryadipta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sxryadipta" height="30" width="40" /></a>
-</p>
-
-
-
 &nbsp;
 
-<br />
 
 
 

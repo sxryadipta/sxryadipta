@@ -5,11 +5,11 @@
 
 
 
-- He's currently learning JavaScript, backend stuff and whatever else catches his brain — including bits of ML. Curiosity drives the stack. If he's learning it, he's probably tweeting it. He follows devs with a strong presence and likes sharing his own journey too. Best place to connect: [x.com/sxryadipta0x]
+- He's currently learning JavaScript, backend stuff and whatever else catches his brain — including bits of ML. Curiosity drives the stack. If he's learning it, he's probably tweeting it. He follows devs with a strong presence and likes sharing his own journey too. Best place to connect: [[x.com/sxryadipta0x](https://x.com/sxryadipta0x)]
 
 - Just like all other college students, His weekends are fun-packed. Bugs are engaging, apparently. He is looking for projects to collaborate on, and contribute to open source while polishing his own skills. For collabs, Reach out. He's one of those devs who actually reads his email: [sxryadipta@gmail.com]
 
-- He tends to have a unique writing style, JavaScript calls it 'unexpected token'. Not everything he writes goes to the engine — some of it ends up here: [https://medium.com/@sxryadipta]
+- He tends to have a unique writing style, JavaScript calls it 'unexpected token'. Not everything he writes goes to the engine — some of it ends up here: [https://medium.com/@sxryadipta] Fun Fact - He's humorous in his blogs!
 
  
 

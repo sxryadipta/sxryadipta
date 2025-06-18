@@ -5,7 +5,7 @@
 
 
 
-- He's currently learning JavaScript, backend stuff and whatever else catches his brain — including bits of Python and ML. Curiosity drives the stack. If he's learning it, he's probably tweeting it. He follows devs with a strong presence and likes sharing his own journey too. Best place to connect: [[x.com/surjostack](https://x.com/surjostack)]
+- He's currently learning JavaScript, backend stuff and whatever else catches his brain — including bits of Python and ML. Curiosity drives the stack. If he's learning it, he's probably tweeting it. He follows devs with a strong presence and likes sharing his own journey too. Best place to connect: [[surjostack](https://x.com/surjostack)]
 
 - Just like all other college students, His weekends are fun-packed. Bugs are engaging, apparently. He is looking for projects to collaborate on, and contribute to open source while polishing his own skills. For collabs, Reach out. He's one of those devs who actually reads his email: [sxryadipta@gmail.com]
 

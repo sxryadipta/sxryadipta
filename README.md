@@ -5,7 +5,7 @@
 
 
 
-- He's currently learning JavaScript, backend stuff and whatever else catches his brain — including bits of Python and ML. Curiosity drives the stack. If he's learning it, he's probably tweeting it. Best place to connect: [[X](https://x.com/surjonomics)]
+- Currently, I am exploring Python and bits of ML trying to build with intent.
 
 - Just like all other college students, His weekends are fun-packed. Bugs are engaging, apparently. He is looking for projects to collaborate on, and contribute to open source while polishing his own skills. For collabs, Reach out. He's one of those devs who actually reads his email: [sxryadipta@gmail.com]
 

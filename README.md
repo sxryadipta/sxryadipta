@@ -1,6 +1,6 @@
 
 
-# <p align="center">Hi 👋, The user is Suryadipta Ghosh!</p>
+# <p align="center">I am Suryadipta Ghosh</p>
 
 
 

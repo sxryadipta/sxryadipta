@@ -1,6 +1,6 @@
 
 
-# <p align="center">I am Suryadipta Ghosh</p>
+# <p align="center">I am Suryadipta Ghosh.</p>
 
 
 

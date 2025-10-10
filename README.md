@@ -7,7 +7,7 @@
 
 - Currently, I am exploring Python and bits of ML trying to build with intent.
 
-- Looking for projects to collaborate on, and contribute to open source while polishing his own skills. For collabs, Reach out: [sxryadipta@gmail.com]
+- Looking to collaborate on and contribute to open source projects. Reach out: [sxryadipta@gmail.com]
 
 - Not everything I write goes to the engine — some of it ends up in [[medium](https://medium.com/@sxryadipta)] page. 
 

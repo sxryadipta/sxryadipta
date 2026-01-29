@@ -9,7 +9,7 @@
   
 - Looking to collaborate on and contribute to open source projects. 
   
-- Not everything I write goes to the engine - some of it ends up in [[medium](https://medium.com/@sxryadipta)] page. 
+ 
 
  
 

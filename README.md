@@ -1,12 +1,16 @@
 
 
-# <p align="center">I am Suryadipta Ghosh.</p>
+# Suryadipta Ghosh.
 
 
 
 
-<div align="left">
-  <h3>Currently, I am exploring Python and bits of ML trying to build with intent.</h4><br>
+
+- Blitz addict. Plays dubious openings intentionally on [chess.com](https://www.chess.com/member/suryadipta) and blunders.
+- Supports Manchester United, not a devoted fan.
+- Occasionally cooks when at home, it's therapeutic.
+
+
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=sxryadipta&theme=highcontrast" alt="GitHub Streak" />
   </a>

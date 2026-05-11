@@ -8,7 +8,7 @@
 
 - Blitz addict. Plays dubious openings intentionally on [chess.com](https://www.chess.com/member/suryadipta) and blunders.
 - Supports Manchester United, not a devoted fan.
-- Occasionally cooks when at home, it's therapeutic.
+- Occasionally cooks when at home mostly because it's therapeutic.
 
 
   <a href="https://git.io/streak-stats">

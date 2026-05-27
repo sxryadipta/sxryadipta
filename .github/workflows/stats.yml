@@ -17,7 +17,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: "username=sxryadipta&layout=compact&langs_count=6"
+          options: "username=sxryadipta&layout=compact&langs_count=6&theme=highcontrast"
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

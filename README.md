@@ -8,6 +8,7 @@
 
 <p align="center">
   <samp>A VLSI undergrad and self-taught developer building REST and GraphQL APIs with Node.js and Express, grinding DSA, and shipping tools that solve his own problems.</samp>
+  ![](https://komarev.com/ghpvc/?username=sxryadipta&color=blue)
 </p>
 
 ##

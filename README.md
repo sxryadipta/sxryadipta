@@ -48,6 +48,18 @@
 ##  ‎  
 
 
+  <h4><b><samp>⚡ Recent Activity</samp></b></h4>
+
+  
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+  
+
+
+
+##  ‎  
+
+
   <h4><b><samp>📝 Latest Articles</samp></b></h4>
 
   

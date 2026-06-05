@@ -47,7 +47,18 @@
 
 ##
 
-<h4><b><samp>Connect with me:</samp></b></h4>
+<details>
+  <summary><b><samp>📝 Latest Articles</samp></b></summary>
+  <br>
+  <p>
+    <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END -->
+  </p>
+</details>
+
+##
+
+<h4><b><samp>🔗 Connect with me:</samp></b></h4>
 
 [![Chess.com](https://img.shields.io/badge/chess.com-81b64c?style=flat-square&logo=chess.com&logoColor=white)](https://www.chess.com/member/suryadipta)
 [![LinkedIn](https://img.shields.io/badge/Suryadipta_Ghosh-0077b5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMGgtMTkuNUMxLjIxMiAwIDAgMS4yMiAwIDIuNzI3djE4LjU0NkMwIDIyLjc4IDEuMjEyIDI0IDIuNzI1IDI0aDE5LjVDMjMuNzg4IDI0IDI1IDIyLjc4IDI1IDIxLjI3M1YyLjcyN0MyNSAxLjIyIDIzLjc4OCAwIDIyLjIyNSAweiIvPjwvc3ZnPg==)](http://linkedin.com/in/sxryadipta)

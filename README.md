@@ -13,7 +13,7 @@
 
 ##
 
-### <samp>📚 About me</samp>
+<h4><b><samp>📚 About me</samp></b></h4>
 <samp>
   
 - Blitz addict. Plays dubious openings intentionally on [chess.com](https://www.chess.com/member/suryadipta) and blunders.

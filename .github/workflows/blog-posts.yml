@@ -1,1 +1,24 @@
+name: Update README with latest Dev.to posts
 
+on:
+  schedule:
+    - cron: '0 0 * * *'  
+  workflow_dispatch:       
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Fetch and update latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch Dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/sxryadipta"
+          max_post_count: 3
+          comment_tag_name: "BLOG-POST-LIST"

@@ -45,7 +45,22 @@
   </p>
 </details>
 
-##  ‎  
+
+
+
+
+##
+
+
+  <h4><b><samp>📝 Latest Articles</samp></b></h4>
+
+  
+<!--BLOG-POST-LIST:START-->
+- [I made a WhatsApp reminder for important FIFA World Cup matches.](https://dev.to/sxryadipta/i-made-a-whatsapp-reminder-for-important-fifa-world-cup-matches-1al1)
+- [JS HTML DOM](https://dev.to/sxryadipta/js-html-dom-43k9)
+- [Basic Git and GitHub commands](https://dev.to/sxryadipta/basic-git-and-github-commands-9jk)
+<!--BLOG-POST-LIST:END-->
+## 
 
 
   <h4><b><samp>⚡ Recent Activity</samp></b></h4>
@@ -59,20 +74,6 @@
 5. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
 <!--RECENT_ACTIVITY:end-->
   
-
-
-
-##  ‎  
-
-
-  <h4><b><samp>📝 Latest Articles</samp></b></h4>
-
-  
-<!-- BLOG-POST-LIST:START -->
-- [I made a WhatsApp reminder for important FIFA World Cup matches.](https://dev.to/sxryadipta/i-made-a-whatsapp-reminder-for-important-fifa-world-cup-matches-1al1)
-- [JS HTML DOM](https://dev.to/sxryadipta/js-html-dom-43k9)
-- [Basic Git and GitHub commands](https://dev.to/sxryadipta/basic-git-and-github-commands-9jk)
-<!-- BLOG-POST-LIST:END -->
   
 
 ##

@@ -3,3 +3,4 @@ commit_msg: "⚡ Update recent activity"
 readme: README.md
 readme_section: RECENT_ACTIVITY
 max_lines: 5
+item_template: "<samp>$ITEM</samp>"

@@ -68,10 +68,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-2. 💪 Opened PR [#1](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-3. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
-4. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
-5. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
+2. ✔️ Closed issue [#2](https://github.com/sxryadipta/portfolio/issues/2) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+3. 💪 Opened PR [#3](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+4. ❗️ Opened issue [#2](https://github.com/sxryadipta/portfolio/issues/2) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+5. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

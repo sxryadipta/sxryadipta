@@ -67,11 +67,11 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
-2. ⭐ Starred [nickmcmillan/react-physics-dragger](https://github.com/nickmcmillan/react-physics-dragger)<br>
-3. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-4. ✔️ Closed issue [#2](https://github.com/sxryadipta/portfolio/issues/2) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-5. 💪 Opened PR [#3](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+1. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+2. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+3. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
+4. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+5. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

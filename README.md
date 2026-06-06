@@ -68,10 +68,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
-2. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
-3. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
+2. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
+3. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
 4. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
-5. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+5. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

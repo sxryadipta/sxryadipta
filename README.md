@@ -18,9 +18,9 @@
   
 - Blitz addict. Plays dubious openings intentionally on [chess.com](https://www.chess.com/member/suryadipta) and blunders.
   
-- Supports Manchester United, not a devoted fan.
+- Not a devoted fan but supports Manchester United.
   
-- Occasionally cooks when at home mostly because it's therapeutic.
+- Occasionally cooks when at home; it's therapeutic.
 </samp>
 
 ##

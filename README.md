@@ -71,7 +71,7 @@
 2. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
 3. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
 4. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
-5. ⭐ Starred [ayush-that/codejeet](https://github.com/ayush-that/codejeet)<br>
+5. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

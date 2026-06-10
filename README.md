@@ -48,7 +48,6 @@
 
 ## 
 <!-- CHESS_STORY -->
----
 
 ### ♟ Last Match
 
@@ -68,7 +67,6 @@ This month: 118W 35L 1D (Blitz)
 Peak hours: mornings
 Personal best: 587
 
----
 <!-- /CHESS_STORY -->
 
 

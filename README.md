@@ -47,6 +47,7 @@
 
 
 ## 
+<h4><b><samp>♟️ Chess Activity</samp></b></h4>
 <!-- CHESS_STORY -->
 
 ### ♟ Last Match

@@ -48,6 +48,27 @@
 
 ## 
 <!-- CHESS_STORY -->
+---
+
+### ♟ Last Match
+
+2026-06-10 · Blitz (3 min) · Playing as White
+
+Opponent resigned after 127 moves
+
+Opening: ECO B01
+Accuracy: 91.2%
+
+Opponent: roberkaldas · 457 rated (3 points below you)
+
+Rating: 452 → 460 (+8)
+Streak: 5-game win streak
+This month: 118W 35L 1D (Blitz)
+
+Peak hours: mornings
+Personal best: 587
+
+---
 <!-- /CHESS_STORY -->
 
 

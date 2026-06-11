@@ -50,20 +50,17 @@
 <h4><b><samp>♟️ Chess Activity</samp></b></h4>
 <!-- CHESS_STORY -->
 
-### ♟ Last Match
+2026-06-11 · Blitz (3 min) · Playing as Black
 
-2026-06-11 · Rapid (10 min) · Playing as White
+Opponent resigned after 149 moves
 
-You resigned after 100 moves
+Opening: ECO A45
 
-Opening: ECO B01
-Accuracy: 81.2%
+Opponent: bellacriaturanueva · 453 rated (26 points below you)
 
-Opponent: Sheeny22 · 725 rated (24 points above you)
-
-Rating: 712 → 701 (-11)
-Streak: 1-game losing skid
-This month: 123W 38L 1D (Rapid)
+Rating: 471 → 479 (+8)
+Streak: 2-game win streak
+This month: 134W 42L 1D (Blitz)
 
 Peak hours: mornings
 Personal best: 587

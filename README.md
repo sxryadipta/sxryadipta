@@ -50,17 +50,17 @@
 <h4><b><samp>♟️ Chess Activity</samp></b></h4>
 <!-- CHESS_STORY -->
 
-2026-06-11 · Blitz (3 min) · Playing as Black
+2026-06-11 · Blitz (3 min) · Playing as White
 
-Opponent resigned after 149 moves
+You were checkmated after 106 moves
 
-Opening: Indian Game 2.Bf4 d6 3.e3 g6 · ECO A45
+Opening: Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qe5 · ECO B01
 
-Opponent: bellacriaturanueva · 453 rated (26 points below you)
+Opponent: r-w1 · 507 rated (36 points above you)
 
-Rating: 471 → 479 (+8)
-Streak: 2-game win streak
-This month: 134W 42L 1D (Blitz)
+Rating: 479 → 471 (-8)
+Streak: 1-game losing skid
+This month: 134W 43L 1D (Blitz)
 
 Peak hours: mornings
 Personal best: 587

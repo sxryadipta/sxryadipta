@@ -86,11 +86,11 @@ Personal best: 587
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
+1. ✔️ Closed issue [#1](https://github.com/sxryadipta/chess-readme-stats/issues/1) in [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
 2. ⬆️ Pushed undefined commit(s) to [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
-3. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
-4. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
-5. ⬆️ Pushed undefined commit(s) to [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
+3. ⬆️ Pushed undefined commit(s) to [shantoshdurai/chess-readme-stats](https://github.com/shantoshdurai/chess-readme-stats)<br>
+4. ⬆️ Pushed undefined commit(s) to [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
+5. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

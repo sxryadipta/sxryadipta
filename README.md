@@ -52,18 +52,18 @@
 
 ### ♟ Last Match
 
-2026-06-10 · Blitz (3 min) · Playing as White
+2026-06-11 · Rapid (10 min) · Playing as White
 
-Opponent resigned after 127 moves
+You resigned after 100 moves
 
 Opening: ECO B01
-Accuracy: 91.2%
+Accuracy: 81.2%
 
-Opponent: roberkaldas · 457 rated (3 points below you)
+Opponent: Sheeny22 · 725 rated (24 points above you)
 
-Rating: 452 → 460 (+8)
-Streak: 5-game win streak
-This month: 118W 35L 1D (Blitz)
+Rating: 712 → 701 (-11)
+Streak: 1-game losing skid
+This month: 123W 38L 1D (Rapid)
 
 Peak hours: mornings
 Personal best: 587

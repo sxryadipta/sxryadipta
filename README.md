@@ -54,7 +54,7 @@
 
 Opponent resigned after 149 moves
 
-Opening: ECO A45
+Opening: Indian Game 2.Bf4 d6 3.e3 g6 · ECO A45
 
 Opponent: bellacriaturanueva · 453 rated (26 points below you)
 

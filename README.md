@@ -50,17 +50,17 @@
 <h4><b><samp>♟️ Chess Activity</samp></b></h4>
 <!-- CHESS_STORY -->
 
-2026-06-11 · Blitz (3 min) · Playing as White
+2026-06-12 · Blitz (3 min) · Playing as Black
 
-You were checkmated after 106 moves
+You resigned after 36 moves
 
-Opening: Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qe5 · ECO B01
+Opening: Polish Opening · ECO A00
 
-Opponent: r-w1 · 507 rated (36 points above you)
+Opponent: nasibillo96 · 495 rated (32 points above you)
 
-Rating: 479 → 471 (-8)
-Streak: 1-game losing skid
-This month: 134W 43L 1D (Blitz)
+Rating: 471 → 463 (-8)
+Streak: 3-game losing skid
+This month: 136W 46L 1D (Blitz)
 
 Peak hours: mornings
 Personal best: 587

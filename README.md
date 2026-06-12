@@ -96,10 +96,10 @@ Personal best: 587
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
-2. ✔️ Closed issue [#1](https://github.com/sxryadipta/chess-readme-stats/issues/1) in [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
+1. 🔱 Forked [sxryadipta/awesome-github-profile-readme](https://github.com/sxryadipta/awesome-github-profile-readme) from [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
+2. ⬆️ Pushed undefined commit(s) to [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
 3. ⬆️ Pushed undefined commit(s) to [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
-4. ⬆️ Pushed undefined commit(s) to [shantoshdurai/chess-readme-stats](https://github.com/shantoshdurai/chess-readme-stats)<br>
+4. 💪 Opened PR [#6](undefined) in [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
 5. ⬆️ Pushed undefined commit(s) to [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
 <!--RECENT_ACTIVITY:end-->
   

@@ -96,11 +96,11 @@ Personal best: 587
 
   
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1731](undefined) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
-2. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
-3. ⬆️ Pushed undefined commit(s) to [sxryadipta/awesome-github-profile-readme](https://github.com/sxryadipta/awesome-github-profile-readme)<br>
-4. 🔱 Forked [sxryadipta/awesome-github-profile-readme](https://github.com/sxryadipta/awesome-github-profile-readme) from [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
-5. ⬆️ Pushed undefined commit(s) to [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
+1. ⬆️ Pushed undefined commit(s) to [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
+2. 💪 Opened PR [#1731](undefined) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
+3. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
+4. ⬆️ Pushed undefined commit(s) to [sxryadipta/awesome-github-profile-readme](https://github.com/sxryadipta/awesome-github-profile-readme)<br>
+5. 🔱 Forked [sxryadipta/awesome-github-profile-readme](https://github.com/sxryadipta/awesome-github-profile-readme) from [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

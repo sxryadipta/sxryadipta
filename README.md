@@ -62,15 +62,15 @@
 
 2026-06-12 · Blitz (3 min) · Playing as Black
 
-Opponent resigned after 101 moves
+Opponent abandoned after 60 moves
 
-Opening: Pirc Defense Classical Variation 4 — Bg7 5.Bg5 O O · ECO B08
+Opening: Pirc Defense Modern Defense Geller System 2 — Nf6 3.Nc3 g6 · ECO B07
 
-Opponent: Peter-Griffin-12 · 495 rated (1 points below you)
+Opponent: Mushashi2327 · 498 rated (10 points above you)
 
-Rating: 657 → 496 (-161)
-Streak: 1-game win streak
-This month: 153W 47L 2D (Blitz)
+Rating: 496 → 488 (-8)
+Streak: 2-game win streak
+This month: 154W 47L 2D (Blitz)
 
 Peak hours: mornings
 Personal best: 587

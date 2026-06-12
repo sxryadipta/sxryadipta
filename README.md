@@ -62,15 +62,15 @@
 
 2026-06-12 · Blitz (3 min) · Playing as Black
 
-You resigned after 36 moves
+Opponent resigned after 101 moves
 
-Opening: Polish Opening · ECO A00
+Opening: Pirc Defense Classical Variation 4 — Bg7 5.Bg5 O O · ECO B08
 
-Opponent: nasibillo96 · 495 rated (32 points above you)
+Opponent: Peter-Griffin-12 · 495 rated (1 points below you)
 
-Rating: 471 → 463 (-8)
-Streak: 3-game losing skid
-This month: 136W 46L 1D (Blitz)
+Rating: 657 → 496 (-161)
+Streak: 1-game win streak
+This month: 153W 47L 2D (Blitz)
 
 Peak hours: mornings
 Personal best: 587

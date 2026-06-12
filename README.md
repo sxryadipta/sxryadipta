@@ -45,9 +45,19 @@
   </p>
 </details>
 
+##
+
+<details>
+  <summary><b><samp>♟️ Chess stats</samp></b></summary>
+  <br>
+  <p>
+   <img src= "https://chess-readme-stats.vercel.app/api/card/suryadipta.svg" />
+  </p>
+</details>
+
 
 ## 
-<h4><b><samp>♟️ Chess Activity</samp></b></h4>
+<h4><b><samp> 🧩 Chess Activity</samp></b></h4>
 <!-- CHESS_STORY -->
 
 2026-06-12 · Blitz (3 min) · Playing as Black

@@ -62,15 +62,15 @@
 
 2026-06-13 · Bullet (1 min) · Playing as Black
 
-Opponent resigned after 195 moves
+Opponent abandoned after 127 moves
 
-Opening: Queens Pawn Opening 1 — d6 · ECO A41
+Opening: Pirc Defense Classical Variation 4 — Bg7 5.Bg5 O O · ECO B08
 
-Opponent: pilot_Endor · 630 rated (27 points below you)
+Opponent: zenith1604 · 680 rated (32 points above you)
 
-Rating: 649 → 657 (+8)
-Streak: 4-game win streak
-This month: 156W 47L 2D (Bullet)
+Rating: 656 → 648 (-8)
+Streak: 9-game win streak
+This month: 161W 47L 2D (Bullet)
 
 Peak hours: mornings
 Personal best: 587

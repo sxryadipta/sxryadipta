@@ -96,11 +96,11 @@ Personal best: 587
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
-2. 💪 Opened PR [#1731](undefined) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
-3. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
-4. ⬆️ Pushed undefined commit(s) to [sxryadipta/awesome-github-profile-readme](https://github.com/sxryadipta/awesome-github-profile-readme)<br>
-5. 🔱 Forked [sxryadipta/awesome-github-profile-readme](https://github.com/sxryadipta/awesome-github-profile-readme) from [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
+1. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+2. ❗️ Opened issue [#2](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush/issues/2) in [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+3. ⬆️ Pushed undefined commit(s) to [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
+4. 💪 Opened PR [#1731](undefined) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
+5. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

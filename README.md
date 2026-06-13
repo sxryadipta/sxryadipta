@@ -85,9 +85,9 @@ Personal best: 587
 
   
 <!-- BLOG-POST-LIST:START -->
+- [Here&#39;s why you need a chess stats card](https://dev.to/sxryadipta/heres-why-you-need-a-chess-stats-card-4pml)
 - [I made a WhatsApp reminder for important FIFA World Cup matches.](https://dev.to/sxryadipta/i-made-a-whatsapp-reminder-for-important-fifa-world-cup-matches-1al1)
 - [JS HTML DOM](https://dev.to/sxryadipta/js-html-dom-43k9)
-- [Basic Git and GitHub commands](https://dev.to/sxryadipta/basic-git-and-github-commands-9jk)
 <!-- BLOG-POST-LIST:END -->
 ## 
 

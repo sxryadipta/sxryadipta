@@ -60,17 +60,17 @@
 <h4><b><samp> 🧩 Chess Activity</samp></b></h4>
 <!-- CHESS_STORY -->
 
-2026-06-12 · Blitz (3 min) · Playing as Black
+2026-06-13 · Bullet (1 min) · Playing as Black
 
-Opponent abandoned after 60 moves
+Opponent resigned after 195 moves
 
-Opening: Pirc Defense Modern Defense Geller System 2 — Nf6 3.Nc3 g6 · ECO B07
+Opening: Queens Pawn Opening 1 — d6 · ECO A41
 
-Opponent: Mushashi2327 · 498 rated (10 points above you)
+Opponent: pilot_Endor · 630 rated (27 points below you)
 
-Rating: 496 → 488 (-8)
-Streak: 2-game win streak
-This month: 154W 47L 2D (Blitz)
+Rating: 649 → 657 (+8)
+Streak: 4-game win streak
+This month: 156W 47L 2D (Bullet)
 
 Peak hours: mornings
 Personal best: 587

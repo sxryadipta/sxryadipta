@@ -60,17 +60,17 @@
 <h4><b><samp> 🧩 Chess Activity</samp></b></h4>
 <!-- CHESS_STORY -->
 
-2026-06-13 · Bullet (1 min) · Playing as Black
+2026-06-13 · Bullet (1 min) · Playing as White
 
-Opponent abandoned after 127 moves
+Opponent ran out of time after 151 moves
 
-Opening: Pirc Defense Classical Variation 4 — Bg7 5.Bg5 O O · ECO B08
+Opening: Nimzowitsch Defense Declined · ECO B00
 
-Opponent: zenith1604 · 680 rated (32 points above you)
+Opponent: danyrmx · 647 rated (7 points below you)
 
-Rating: 656 → 648 (-8)
-Streak: 9-game win streak
-This month: 161W 47L 2D (Bullet)
+Rating: 663 → 654 (-9)
+Streak: 4-game win streak
+This month: 165W 48L 2D (Bullet)
 
 Peak hours: mornings
 Personal best: 587

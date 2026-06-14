@@ -14,7 +14,7 @@ jobs:
 
       - name: Fetch chess story
         run: |
-          curl -s "https://chess-readme-stats.vercel.app/api/story/${{ vars.CHESS_USERNAME }}" > /tmp/chess.md
+          curl -s "https://chess-readme-stats.vercel.app/api/story/sxryadipta" > /tmp/chess.md
 
       - name: Inject into README
         run: |

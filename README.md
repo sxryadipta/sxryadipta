@@ -81,11 +81,11 @@ Player not found
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
-2. ❗️ Opened issue [#8](https://github.com/sxryadipta/chess-readme-stats/issues/8) in [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
-3. ❗️ Opened issue [#7](https://github.com/sxryadipta/chess-readme-stats/issues/7) in [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
-4. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
-5. ❗️ Opened issue [#2](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush/issues/2) in [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+1. ❗️ Opened issue [#4](https://github.com/sxryadipta/portfolio/issues/4) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+2. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
+3. ❗️ Opened issue [#8](https://github.com/sxryadipta/chess-readme-stats/issues/8) in [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
+4. ❗️ Opened issue [#7](https://github.com/sxryadipta/chess-readme-stats/issues/7) in [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
+5. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

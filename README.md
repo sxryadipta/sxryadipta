@@ -60,17 +60,17 @@
 <h4><b><samp> 🧩 Chess Activity</samp></b></h4>
 <!-- CHESS_STORY -->
 
-2026-06-14 · Rapid (10 min) · Playing as Black
+2026-06-14 · Blitz (3 min) · Playing as Black
 
-Opponent resigned after 175 moves
+You resigned after 103 moves
 
-Opening: Pirc Defense Classical Variation 4 — Bg7 · ECO B08
+Opening: Modern Defense with 1 e4 — 3.Nf3 d6 4.Bc4 Nf6 · ECO B06
 
-Opponent: boylovefootball · 706 rated (7 points below you)
+Opponent: Mohamedarakrak · 495 rated (7 points above you)
 
-Rating: 702 → 713 (+11)
-Streak: 1-game win streak
-This month: 167W 49L 2D (Rapid)
+Rating: 713 → 488 (-225)
+Streak: 1-game losing skid
+This month: 167W 50L 2D (Blitz)
 
 Peak hours: mornings
 Personal best: 587

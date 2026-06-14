@@ -59,7 +59,22 @@
 ## 
 <h4><b><samp> 🧩 Chess Activity</samp></b></h4>
 <!-- CHESS_STORY -->
-Player not found
+
+2026-06-14 · Rapid (10 min) · Playing as Black
+
+Opponent resigned after 175 moves
+
+Opening: Pirc Defense Classical Variation 4 — Bg7 · ECO B08
+
+Opponent: boylovefootball · 706 rated (7 points below you)
+
+Rating: 702 → 713 (+11)
+Streak: 1-game win streak
+This month: 167W 49L 2D (Rapid)
+
+Peak hours: mornings
+Personal best: 587
+
 <!-- /CHESS_STORY -->
 
 

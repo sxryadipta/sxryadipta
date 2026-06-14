@@ -59,22 +59,7 @@
 ## 
 <h4><b><samp> 🧩 Chess Activity</samp></b></h4>
 <!-- CHESS_STORY -->
-
-2026-06-13 · Bullet (1 min) · Playing as White
-
-Opponent ran out of time after 151 moves
-
-Opening: Nimzowitsch Defense Declined · ECO B00
-
-Opponent: danyrmx · 647 rated (7 points below you)
-
-Rating: 663 → 654 (-9)
-Streak: 4-game win streak
-This month: 165W 48L 2D (Bullet)
-
-Peak hours: mornings
-Personal best: 587
-
+Player not found
 <!-- /CHESS_STORY -->
 
 

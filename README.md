@@ -51,7 +51,7 @@
   <summary><b><samp>♟️ Chess stats</samp></b></summary>
   <br>
   <p>
-   <img src= "https://chess-readme-stats.vercel.app/api/card/suryadipta.svg" />
+   <img src= "https://chess-readme-stats.vercel.app/api/card/sxryadipta.svg" />
   </p>
 </details>
 

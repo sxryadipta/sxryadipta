@@ -56,26 +56,10 @@
 </details>
 
 
-## 
-<h4><b><samp> 🧩 Chess Activity</samp></b></h4>
+
 <!-- CHESS_STORY -->
 
-2026-06-15 · Blitz (3 min) · Playing as White
 
-You were checkmated after 147 moves
-
-Opening: Philidor Defense · ECO C41
-
-Opponent: predragdunovic · 494 rated (30 points above you)
-
-Rating: 472 → 464 (-8)
-Streak: 1-game losing skid
-This month: 169W 51L 2D (Blitz)
-
-Peak hours: mornings
-Personal best: 587
-
-<!-- /CHESS_STORY -->
 
 
 ##

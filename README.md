@@ -60,17 +60,17 @@
 <h4><b><samp> 🧩 Chess Activity</samp></b></h4>
 <!-- CHESS_STORY -->
 
-2026-06-14 · Blitz (3 min) · Playing as Black
+2026-06-15 · Blitz (3 min) · Playing as White
 
-You resigned after 103 moves
+You were checkmated after 147 moves
 
-Opening: Modern Defense with 1 e4 — 3.Nf3 d6 4.Bc4 Nf6 · ECO B06
+Opening: Philidor Defense · ECO C41
 
-Opponent: Mohamedarakrak · 495 rated (7 points above you)
+Opponent: predragdunovic · 494 rated (30 points above you)
 
-Rating: 713 → 488 (-225)
+Rating: 472 → 464 (-8)
 Streak: 1-game losing skid
-This month: 167W 50L 2D (Blitz)
+This month: 169W 51L 2D (Blitz)
 
 Peak hours: mornings
 Personal best: 587

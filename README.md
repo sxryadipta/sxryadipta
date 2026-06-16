@@ -80,11 +80,11 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#5](https://github.com/sxryadipta/portfolio/issues/5) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+1. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
 2. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
-3. ❗️ Opened issue [#9](https://github.com/sxryadipta/chess-readme-stats/issues/9) in [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
+3. ❗️ Opened issue [#5](https://github.com/sxryadipta/portfolio/issues/5) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
 4. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
-5. ❗️ Opened issue [#4](https://github.com/sxryadipta/portfolio/issues/4) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+5. ❗️ Opened issue [#9](https://github.com/sxryadipta/chess-readme-stats/issues/9) in [sxryadipta/chess-readme-stats](https://github.com/sxryadipta/chess-readme-stats)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

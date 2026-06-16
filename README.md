@@ -16,12 +16,14 @@
 <h4><b><samp>📚 About me</samp></b></h4>
 <samp>
   
-- Blitz addict. Plays dubious openings intentionally on [chess.com](https://www.chess.com/member/suryadipta) and blunders.
+- Blitz addict. Plays dubious openings intentionally on [chess.com](https://www.chess.com/member/suryadipta), struggles in end games and blunders.
   
 - Not a devoted fan but supports Manchester United.
   
-- Occasionally cooks when at home; it's therapeutic.
-</samp>
+- Occasionally cooks when at home; it's therapeutic, and the experiments occasionally taste surprisingly good too.
+
+- A collection of articles exploring unconventional interests, curious ideas, and unexpected intersections. Available on
+[Substack](https://sxryadipta.substack.com/).
 
 ##
 

@@ -88,10 +88,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-2. 💪 Opened PR [#26](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+2. 💪 Opened PR [#27](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
 3. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
 4. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-5. 💪 Opened PR [#25](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+5. 💪 Opened PR [#26](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

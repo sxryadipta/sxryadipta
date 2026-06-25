@@ -87,11 +87,11 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-2. 💪 Opened PR [#27](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-3. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-4. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-5. 💪 Opened PR [#26](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+1. ⬆️ Pushed undefined commit(s) to [sxryadipta/extension](https://github.com/sxryadipta/extension)<br>
+2. ⬆️ Pushed undefined commit(s) to [sxryadipta/extension](https://github.com/sxryadipta/extension)<br>
+3. ✔️ Closed issue [#23](https://github.com/sxryadipta/portfolio/issues/23) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+4. ✔️ Closed issue [#4](https://github.com/sxryadipta/portfolio/issues/4) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+5. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

@@ -87,10 +87,10 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [sxryadipta/ToolJet](https://github.com/sxryadipta/ToolJet) from [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)<br>
-2. ✔️ Closed issue [#2](https://github.com/sxryadipta/DevLog/issues/2) in [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
-3. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
-4. 💪 Opened PR [#24](undefined) in [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
+1. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+2. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+3. 🔱 Forked [sxryadipta/ToolJet](https://github.com/sxryadipta/ToolJet) from [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)<br>
+4. ✔️ Closed issue [#2](https://github.com/sxryadipta/DevLog/issues/2) in [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
 5. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
 <!--RECENT_ACTIVITY:end-->
   

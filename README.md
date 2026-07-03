@@ -87,11 +87,11 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
-2. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
-3. 🔱 Forked [sxryadipta/ToolJet](https://github.com/sxryadipta/ToolJet) from [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)<br>
-4. ✔️ Closed issue [#2](https://github.com/sxryadipta/DevLog/issues/2) in [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
-5. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
+1. 💬 Commented on [#17020](https://github.com/ToolJet/ToolJet/issues/17020#issuecomment-4875867820) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)<br>
+2. 💬 Commented on [#17050](https://github.com/ToolJet/ToolJet/pull/17050#issuecomment-4875854490) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)<br>
+3. 💬 Commented on [#17049](https://github.com/ToolJet/ToolJet/pull/17049#issuecomment-4875848560) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)<br>
+4. 💬 Commented on [#17049](https://github.com/ToolJet/ToolJet/pull/17049#issuecomment-4875840048) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)<br>
+5. 💪 Opened PR [#17050](undefined) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

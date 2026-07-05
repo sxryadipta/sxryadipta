@@ -87,10 +87,10 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/job-tracker](https://github.com/sxryadipta/job-tracker)<br>
-2. ✔️ Closed issue [#20](https://github.com/sxryadipta/job-tracker/issues/20) in [sxryadipta/job-tracker](https://github.com/sxryadipta/job-tracker)<br>
-3. 💪 Opened PR [#35](undefined) in [sxryadipta/job-tracker](https://github.com/sxryadipta/job-tracker)<br>
-4. ⬆️ Pushed undefined commit(s) to [sxryadipta/job-tracker](https://github.com/sxryadipta/job-tracker)<br>
+1. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+2. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+3. ❗️ Opened issue [#32](https://github.com/sxryadipta/portfolio/issues/32) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+4. 💪 Opened PR [#31](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
 5. ⬆️ Pushed undefined commit(s) to [sxryadipta/job-tracker](https://github.com/sxryadipta/job-tracker)<br>
 <!--RECENT_ACTIVITY:end-->
   

@@ -87,11 +87,11 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#17020](https://github.com/ToolJet/ToolJet/issues/17020#issuecomment-4906759695) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)<br>
-2. ❗️ Opened issue [#17078](https://github.com/ToolJet/ToolJet/issues/17078) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)<br>
-3. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-4. 💪 Opened PR [#39](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-5. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+1. 💬 Commented on [#17020](https://github.com/ToolJet/ToolJet/issues/17020#issuecomment-4912350325) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)<br>
+2. 💬 Commented on [#17020](https://github.com/ToolJet/ToolJet/issues/17020#issuecomment-4906759695) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)<br>
+3. ❗️ Opened issue [#17078](https://github.com/ToolJet/ToolJet/issues/17078) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)<br>
+4. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+5. 💪 Opened PR [#39](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

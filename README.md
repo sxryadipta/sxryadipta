@@ -35,10 +35,7 @@
       <img src="https://streak-stats.demolab.com?user=sxryadipta&theme=highcontrast" alt="GitHub Streak" />
     </a>
     <br>
-    <br>
-    <a href="https://github.com/sxryadipta" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-readme-stats.vercel.app/api?username=sxryadipta&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" />
-    </a>
+    
   </p>
 </details>
 

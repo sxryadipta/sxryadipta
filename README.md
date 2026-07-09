@@ -84,11 +84,11 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
-2. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
-3. ⬆️ Pushed undefined commit(s) to [Soundalike/Soundalike](https://github.com/Soundalike/Soundalike)<br>
-4. ❌ Closed PR [#1](undefined) in [Soundalike/Soundalike](https://github.com/Soundalike/Soundalike)<br>
-5. 💪 Opened PR [#1](undefined) in [Soundalike/Soundalike](https://github.com/Soundalike/Soundalike)<br>
+1. ⬆️ Pushed undefined commit(s) to [Svaralike/Svaralike](https://github.com/Svaralike/Svaralike)<br>
+2. 💪 Opened PR [#3](undefined) in [Svaralike/Svaralike](https://github.com/Svaralike/Svaralike)<br>
+3. ⬆️ Pushed undefined commit(s) to [Svaralike/Svaralike](https://github.com/Svaralike/Svaralike)<br>
+4. 💪 Opened PR [#2](undefined) in [Svaralike/Svaralike](https://github.com/Svaralike/Svaralike)<br>
+5. ❗️ Opened issue [#36](https://github.com/sxryadipta/job-tracker/issues/36) in [sxryadipta/job-tracker](https://github.com/sxryadipta/job-tracker)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

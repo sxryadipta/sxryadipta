@@ -84,11 +84,11 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Svaralike/Svaralike](https://github.com/Svaralike/Svaralike)<br>
-2. 💪 Opened PR [#3](undefined) in [Svaralike/Svaralike](https://github.com/Svaralike/Svaralike)<br>
-3. ⬆️ Pushed undefined commit(s) to [Svaralike/Svaralike](https://github.com/Svaralike/Svaralike)<br>
-4. 💪 Opened PR [#2](undefined) in [Svaralike/Svaralike](https://github.com/Svaralike/Svaralike)<br>
-5. ❗️ Opened issue [#36](https://github.com/sxryadipta/job-tracker/issues/36) in [sxryadipta/job-tracker](https://github.com/sxryadipta/job-tracker)<br>
+1. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+2. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+3. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+4. ⬆️ Pushed undefined commit(s) to [Svaralike/Svaralike](https://github.com/Svaralike/Svaralike)<br>
+5. 💪 Opened PR [#3](undefined) in [Svaralike/Svaralike](https://github.com/Svaralike/Svaralike)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

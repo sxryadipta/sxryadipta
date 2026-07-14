@@ -84,11 +84,11 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Svaralike/svaralike](https://github.com/Svaralike/svaralike)<br>
-2. 💪 Opened PR [#5](undefined) in [Svaralike/svaralike](https://github.com/Svaralike/svaralike)<br>
-3. ⬆️ Pushed undefined commit(s) to [Svaralike/svaralike](https://github.com/Svaralike/svaralike)<br>
-4. 💪 Opened PR [#4](undefined) in [Svaralike/svaralike](https://github.com/Svaralike/svaralike)<br>
-5. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+1. ⬆️ Pushed undefined commit(s) to [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
+2. ⬆️ Pushed undefined commit(s) to [Svaralike/svaralike](https://github.com/Svaralike/svaralike)<br>
+3. 💪 Opened PR [#5](undefined) in [Svaralike/svaralike](https://github.com/Svaralike/svaralike)<br>
+4. ⬆️ Pushed undefined commit(s) to [Svaralike/svaralike](https://github.com/Svaralike/svaralike)<br>
+5. 💪 Opened PR [#4](undefined) in [Svaralike/svaralike](https://github.com/Svaralike/svaralike)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

@@ -84,11 +84,11 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#20](https://github.com/sxryadipta/DevLog/issues/20) in [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
-2. ✔️ Closed issue [#21](https://github.com/sxryadipta/DevLog/issues/21) in [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
-3. ✔️ Closed issue [#22](https://github.com/sxryadipta/DevLog/issues/22) in [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
-4. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
-5. 💪 Opened PR [#41](undefined) in [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
+1. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
+2. 💪 Opened PR [#44](undefined) in [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
+3. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
+4. ❗️ Opened issue [#43](https://github.com/sxryadipta/DevLog/issues/43) in [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
+5. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

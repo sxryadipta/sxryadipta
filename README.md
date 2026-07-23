@@ -84,11 +84,11 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
-2. 💪 Opened PR [#44](undefined) in [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
-3. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
-4. ❗️ Opened issue [#43](https://github.com/sxryadipta/DevLog/issues/43) in [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
-5. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
+1. ⬆️ Pushed undefined commit(s) to [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
+2. 💪 Opened PR [#2](undefined) in [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
+3. ⬆️ Pushed undefined commit(s) to [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
+4. ⬆️ Pushed undefined commit(s) to [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
+5. 💪 Opened PR [#1](undefined) in [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

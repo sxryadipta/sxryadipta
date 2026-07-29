@@ -84,11 +84,11 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
-2. ⬆️ Pushed undefined commit(s) to [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
-3. 💪 Opened PR [#5](undefined) in [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
-4. ⬆️ Pushed undefined commit(s) to [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
-5. ⬆️ Pushed undefined commit(s) to [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
+1. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+2. 💪 Opened PR [#44](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+3. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+4. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+5. 💪 Opened PR [#43](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

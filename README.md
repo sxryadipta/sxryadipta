@@ -84,11 +84,11 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-2. 💪 Opened PR [#45](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-3. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-4. ⬆️ Pushed undefined commit(s) to [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
-5. 💪 Opened PR [#44](undefined) in [sxryadipta/portfolio](https://github.com/sxryadipta/portfolio)<br>
+1. 💬 Commented on [#17050](https://github.com/ToolJet/ToolJet/pull/17050#issuecomment-5145285120) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)<br>
+2. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
+3. 💪 Opened PR [#47](undefined) in [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
+4. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
+5. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

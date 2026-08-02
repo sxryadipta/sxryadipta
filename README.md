@@ -84,11 +84,11 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
-2. 💪 Opened PR [#48](undefined) in [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
+1. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+2. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
 3. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
-4. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
-5. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+4. 💪 Opened PR [#48](undefined) in [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
+5. ⬆️ Pushed undefined commit(s) to [sxryadipta/DevLog](https://github.com/sxryadipta/DevLog)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

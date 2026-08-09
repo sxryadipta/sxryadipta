@@ -28,7 +28,7 @@
 ##
 
 <details>
-  <summary><b><samp>📊 GitHub Stats</samp></b></summary>
+<b><samp>📊 GitHub Stats</samp></b>
   <br>
   <p>
     <a href="https://git.io/streak-stats">

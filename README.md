@@ -27,7 +27,7 @@
 
 ##
 
-<details>
+
 <b><samp>📊 GitHub Stats</samp></b>
   <br>
   <p>
@@ -37,7 +37,7 @@
     <br>
     
   </p>
-</details>
+
 
 ##
 

@@ -41,16 +41,6 @@
 
 ##
 
-<details>
-  <summary><b><samp>🧑‍💻 Most Used Languages</samp></b></summary>
-  <br>
-  <p>
-    <img src="./profile/top-langs.svg" alt="Top Languages" />
-  </p>
-</details>
-
-##
-
 <b><samp>♟️ Chess stats</samp></b>
   <br>
   <p>

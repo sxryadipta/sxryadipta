@@ -51,13 +51,12 @@
 
 ##
 
-<details>
-  <summary><b><samp>♟️ Chess stats</samp></b></summary>
+<b><samp>♟️ Chess stats</samp></b>
   <br>
   <p>
    <img src= "https://chess-readme-stats.vercel.app/api/card/sxryadipta.svg" />
   </p>
-</details>
+
 
 
 

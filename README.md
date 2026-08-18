@@ -73,10 +73,10 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
+1. ❗️ Opened issue [#12](https://github.com/sxryadipta/queryforge/issues/12) in [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
 2. ⬆️ Pushed undefined commit(s) to [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
-3. 💪 Opened PR [#11](undefined) in [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
-4. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+3. ⬆️ Pushed undefined commit(s) to [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
+4. 💪 Opened PR [#11](undefined) in [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
 5. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
 <!--RECENT_ACTIVITY:end-->
   

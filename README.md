@@ -73,11 +73,11 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
-2. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
-3. ⬆️ Pushed undefined commit(s) to [Svaralike/svaralike-api](https://github.com/Svaralike/svaralike-api)<br>
-4. 💪 Opened PR [#2](undefined) in [Svaralike/svaralike-api](https://github.com/Svaralike/svaralike-api)<br>
-5. ❗️ Opened issue [#10](https://github.com/sxryadipta/queryforge/issues/10) in [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
+1. ⬆️ Pushed undefined commit(s) to [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
+2. ⬆️ Pushed undefined commit(s) to [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
+3. 💪 Opened PR [#11](undefined) in [sxryadipta/queryforge](https://github.com/sxryadipta/queryforge)<br>
+4. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+5. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

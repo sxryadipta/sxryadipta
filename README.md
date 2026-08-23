@@ -39,6 +39,20 @@
   </p>
 
 
+##
+
+<b><samp>♟️ Chess stats</samp></b>
+  <br>
+  <p>
+   <img src= "https://chess-readme-stats.vercel.app/api/card/sxryadipta.svg" />
+  </p>
+
+
+
+
+<!-- CHESS_STORY -->
+
+
 
 
 

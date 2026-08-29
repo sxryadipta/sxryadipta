@@ -38,6 +38,10 @@
     
   </p>
 
+##  
+  <a href="https://open.spotify.com/user/sxryadipta">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=sxryadipta" alt="Spotify recently played" width="400" />
+  </a>
 
 ##
 

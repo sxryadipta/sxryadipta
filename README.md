@@ -46,6 +46,8 @@
         <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=q7ak3aqkgumnuwq7be6xkcmtn" alt="Spotify recently played" width="400" />
       </a>
     <br>
+
+  </p>
 ##
 
 <b><samp>♟️ Chess stats</samp></b>

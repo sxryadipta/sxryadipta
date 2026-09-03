@@ -40,7 +40,7 @@
 
 ##  
   <a href="https://open.spotify.com/user/sxryadipta">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=sxryadipta" alt="Spotify recently played" width="400" />
+    ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=q7ak3aqkgumnuwq7be6xkcmtn)
   </a>
 
 ##

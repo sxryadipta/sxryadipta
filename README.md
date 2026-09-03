@@ -39,10 +39,13 @@
   </p>
 
 ##  
-  <a href="https://open.spotify.com/user/q7ak3aqkgumnuwq7be6xkcmtn">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=q7ak3aqkgumnuwq7be6xkcmtn" alt="Spotify recently played" width="400" />
-  </a>
-
+ <b><samp>🎵 Recent Played</samp></b>
+  <br>
+  <p>
+      <a href="https://open.spotify.com/user/q7ak3aqkgumnuwq7be6xkcmtn">
+        <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=q7ak3aqkgumnuwq7be6xkcmtn" alt="Spotify recently played" width="400" />
+      </a>
+    <br>
 ##
 
 <b><samp>♟️ Chess stats</samp></b>

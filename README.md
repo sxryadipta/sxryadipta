@@ -86,11 +86,11 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2](https://github.com/sxryadipta/risc-v-adder/issues/2) in [sxryadipta/risc-v-adder](https://github.com/sxryadipta/risc-v-adder)<br>
-2. ❗️ Opened issue [#1](https://github.com/sxryadipta/risc-v-adder/issues/1) in [sxryadipta/risc-v-adder](https://github.com/sxryadipta/risc-v-adder)<br>
-3. ⭐ Starred [optuna/optuna](https://github.com/optuna/optuna)<br>
-4. ⭐ Starred [tdene/synth_opt_adders](https://github.com/tdene/synth_opt_adders)<br>
-5. ⬆️ Pushed undefined commit(s) to [sxryadipta/DSA-Patterns-Padho-with-Pratyush](https://github.com/sxryadipta/DSA-Patterns-Padho-with-Pratyush)<br>
+1. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
+2. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
+3. ❗️ Opened issue [#2](https://github.com/sxryadipta/risc-v-adder/issues/2) in [sxryadipta/risc-v-adder](https://github.com/sxryadipta/risc-v-adder)<br>
+4. ❗️ Opened issue [#1](https://github.com/sxryadipta/risc-v-adder/issues/1) in [sxryadipta/risc-v-adder](https://github.com/sxryadipta/risc-v-adder)<br>
+5. ⭐ Starred [optuna/optuna](https://github.com/optuna/optuna)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

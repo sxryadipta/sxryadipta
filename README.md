@@ -88,9 +88,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
 2. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
-3. ❗️ Opened issue [#2](https://github.com/sxryadipta/risc-v-adder/issues/2) in [sxryadipta/risc-v-adder](https://github.com/sxryadipta/risc-v-adder)<br>
-4. ❗️ Opened issue [#1](https://github.com/sxryadipta/risc-v-adder/issues/1) in [sxryadipta/risc-v-adder](https://github.com/sxryadipta/risc-v-adder)<br>
-5. ⭐ Starred [optuna/optuna](https://github.com/optuna/optuna)<br>
+3. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
+4. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
+5. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

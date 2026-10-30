@@ -86,8 +86,6 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
-2. ⬆️ Pushed undefined commit(s) to [sxryadipta/sxryadipta](https://github.com/sxryadipta/sxryadipta)<br>
 <!--RECENT_ACTIVITY:end-->
   
   

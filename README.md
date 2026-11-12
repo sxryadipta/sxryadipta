@@ -86,9 +86,10 @@
 
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sxryadipta/risc-v-adder](https://github.com/sxryadipta/risc-v-adder)<br>
+1. 💪 Opened PR [#1](undefined) in [sxryadipta/tesla-study](https://github.com/sxryadipta/tesla-study)<br>
 2. ⬆️ Pushed undefined commit(s) to [sxryadipta/risc-v-adder](https://github.com/sxryadipta/risc-v-adder)<br>
-3. 💪 Opened PR [#4](undefined) in [sxryadipta/risc-v-adder](https://github.com/sxryadipta/risc-v-adder)<br>
+3. ⬆️ Pushed undefined commit(s) to [sxryadipta/risc-v-adder](https://github.com/sxryadipta/risc-v-adder)<br>
+4. 💪 Opened PR [#4](undefined) in [sxryadipta/risc-v-adder](https://github.com/sxryadipta/risc-v-adder)<br>
 <!--RECENT_ACTIVITY:end-->
   
   
